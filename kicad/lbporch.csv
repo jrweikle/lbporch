@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2,U1";"DIP-14_W7.62mm";2;"74LS30";;;
+2;"J4";"PinHeader_1x02_P1.00mm_Vertical";1;"Conn_01x02_Pin";;;
+3;"U3,U4";"DIP-20_W7.62mm";2;"74LS374";;;
+4;"C6,C4,C3,C2,C5,C1";"C_Disc_D3.8mm_W2.6mm_P2.50mm";6;"0.1";;;
+5;"R24,R17,R32,R18,R26,R28,R25,R29,R20,R22,R31,R30,R21,R27,R19,R23";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";16;"10k";;;
+6;"R1,R13,R4,R14,R16,R10,R11,R12,R15,R3,R6,R8,R2,R9,R5,R7";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";16;"20k";;;
+7;"U5,U6";"DIP-16_W10.16mm";2;"74LS138";;;
+8;"J3,J2";"CUI_RCJ-054";2;"Conn_Coaxial";;;
+9;"J1";"PinHeader_2x25_P2.54mm_Vertical";1;"Conn_02x25_Odd_Even";;;
